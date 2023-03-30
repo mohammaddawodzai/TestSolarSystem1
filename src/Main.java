@@ -10,7 +10,7 @@ public class Main {
         FeatureSun sun1 = new FeatureSun();
         sun1.color="grey";
         sun1.temperature="1212121211222";
-        sun1.radius="2323232323;
+        sun1.radius="2323232323";
         
     }
 }
